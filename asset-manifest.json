@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jwel/static/css/main.56844a48.css",
-    "main.js": "/jwel/static/js/main.55836a1b.js",
+    "main.js": "/jwel/static/js/main.3f5c56df.js",
     "static/media/home6.jpg": "/jwel/static/media/home6.4e76fb6307bf60e5658d.jpg",
     "static/media/home4.jpg": "/jwel/static/media/home4.2d4fe742a45997e95cab.jpg",
     "static/media/ear6.jpg": "/jwel/static/media/ear6.030c3ea8dc7d5d86f845.jpg",
@@ -39,10 +39,10 @@
     "static/media/dp2.jpg": "/jwel/static/media/dp2.fc4f65d8fe6219e968bb.jpg",
     "index.html": "/jwel/index.html",
     "main.56844a48.css.map": "/jwel/static/css/main.56844a48.css.map",
-    "main.55836a1b.js.map": "/jwel/static/js/main.55836a1b.js.map"
+    "main.3f5c56df.js.map": "/jwel/static/js/main.3f5c56df.js.map"
   },
   "entrypoints": [
     "static/css/main.56844a48.css",
-    "static/js/main.55836a1b.js"
+    "static/js/main.3f5c56df.js"
   ]
 }
